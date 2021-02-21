@@ -1,0 +1,3 @@
+django
+django-timezone-field
+django-rest-framework
