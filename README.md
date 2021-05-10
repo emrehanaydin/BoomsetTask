@@ -1,3 +1,3 @@
-# BoomsetTask
+# Event Project
 
 **Boomset Review Task**
